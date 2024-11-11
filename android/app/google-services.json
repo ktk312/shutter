@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728959022805",
+    "project_id": "shutter-a43a8",
+    "storage_bucket": "shutter-a43a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728959022805:android:e7ab8406c4de2aeb7b545c",
+        "android_client_info": {
+          "package_name": "com.example.shutter_ease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF6JjWELaGFxhyTPmgHsn7qOuuTJiq-YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
